@@ -1,0 +1,15 @@
+[package]
+name = "rhodium"
+version = "0.0.0"
+authors = ["Alexey Gerasev <alexey.gerasev@gmail.com>"]
+edition = "2018"
+description = "Rust deep learning framework"
+documentation = "https://docs.rs/rhodium"
+readme = "README.md"
+homepage = "https://github.com/agerasev/rhodium"
+repository = "https://github.com/agerasev/rhodium"
+license = "MIT OR Apache-2.0"
+keywords = ["neural-networks", "deep-learning", "machine-learning", "framework"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
